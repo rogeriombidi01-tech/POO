@@ -1,0 +1,14 @@
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\bin\Debug\net10.0\ArrendamentoVeiculos.exe
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\bin\Debug\net10.0\ArrendamentoVeiculos.deps.json
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\bin\Debug\net10.0\ArrendamentoVeiculos.runtimeconfig.json
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\bin\Debug\net10.0\ArrendamentoVeiculos.dll
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\bin\Debug\net10.0\ArrendamentoVeiculos.pdb
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\obj\Debug\net10.0\ArrendamentoVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\obj\Debug\net10.0\ArrendamentoVeiculos.AssemblyInfoInputs.cache
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\obj\Debug\net10.0\ArrendamentoVeiculos.AssemblyInfo.cs
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\obj\Debug\net10.0\ArrendamentoVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\obj\Debug\net10.0\ArrendamentoVeiculos.dll
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\obj\Debug\net10.0\refint\ArrendamentoVeiculos.dll
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\obj\Debug\net10.0\ArrendamentoVeiculos.pdb
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\obj\Debug\net10.0\ArrendamentoVeiculos.genruntimeconfig.cache
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\ArrendamentoVeiculos\ArrendamentoVeiculos\obj\Debug\net10.0\ref\ArrendamentoVeiculos.dll

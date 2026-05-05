@@ -1,0 +1,42 @@
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.exe
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.deps.json
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.runtimeconfig.json
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.dll
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.pdb
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.AssemblyInfoInputs.cache
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.AssemblyInfo.cs
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.csproj.CoreCompileInputs.cache
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.dll
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\refint\GestaoUniversitaria.dll
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.pdb
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.genruntimeconfig.cache
+C:\Users\Silo Pedro\Desktop\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\ref\GestaoUniversitaria.dll
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.exe
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.deps.json
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.runtimeconfig.json
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.dll
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.pdb
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.AssemblyInfoInputs.cache
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.AssemblyInfo.cs
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.csproj.CoreCompileInputs.cache
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.dll
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\refint\GestaoUniversitaria.dll
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.pdb
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.genruntimeconfig.cache
+C:\Users\ROGERIO\Downloads\Terefa_POO\Terefa_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\ref\GestaoUniversitaria.dll
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.exe
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.deps.json
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.runtimeconfig.json
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.dll
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\bin\Debug\net10.0\GestaoUniversitaria.pdb
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.AssemblyInfoInputs.cache
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.AssemblyInfo.cs
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.csproj.CoreCompileInputs.cache
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.dll
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\refint\GestaoUniversitaria.dll
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.pdb
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\GestaoUniversitaria.genruntimeconfig.cache
+C:\Users\ROGERIO\Desktop\TrabalhoPratico_POO\GestaoUniversitaria\GestaoUniversitaria\obj\Debug\net10.0\ref\GestaoUniversitaria.dll
